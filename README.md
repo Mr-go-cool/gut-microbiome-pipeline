@@ -1,6 +1,15 @@
-# Gut Microbiome Analysis Pipeline
+Perfect! Here's your **updated `README.md`** in the same clean style you like — but now it's **accurate for your current repo**, which only includes the **MetaBAT2 pipeline** so far.
 
-This repository contains step-by-step workflows and scripts for processing and analyzing gut microbiome data. It includes quality control, trimming, host contamination removal, taxonomic and functional profiling, assembly, and genome binning.
+---
+
+### ✅ Copy-Paste This into `README.md`
+
+```markdown
+# Gut Microbiome – MetaBAT2 Binning Pipeline
+
+This repository currently contains step-by-step workflows and scripts for **genome binning using MetaBAT2**, a key step in analyzing gut microbiome metagenomic data.
+
+More tools will be added soon as the full pipeline is built.
 
 ---
 
@@ -38,11 +47,13 @@ bash scripts/run_metabat2.sh
 
 ## Work in Progress
 
-This project will include:
+This project will soon include:
+- FastQC for quality control
+- Trimmomatic for adapter trimming
+- Bowtie2 for host read removal
 - Kraken2 for taxonomic profiling
 - HUMAnN for functional profiling
-- MEGAHIT for metagenome assembly
-- More tools as needed...
+- MEGAHIT for assembly
 
 Stay tuned!
 
@@ -51,3 +62,4 @@ Stay tuned!
 ## Contact
 
 For any questions or collaboration ideas, feel free to open an issue or contact me.
+```
