@@ -1,10 +1,3 @@
-Perfect! Here's your **updated `README.md`** in the same clean style you like — but now it's **accurate for your current repo**, which only includes the **MetaBAT2 pipeline** so far.
-
----
-
-### ✅ Copy-Paste This into `README.md`
-
-```markdown
 # Gut Microbiome – MetaBAT2 Binning Pipeline
 
 This repository currently contains step-by-step workflows and scripts for **genome binning using MetaBAT2**, a key step in analyzing gut microbiome metagenomic data.
