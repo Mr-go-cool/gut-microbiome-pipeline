@@ -4,13 +4,13 @@ MetaBAT 2 is a tool designed to sort and organize sequences in metagenomic datas
 
 ---
 
-What is MetaBAT 2?
+## 🔍 What is MetaBAT 2?
 
 MetaBAT 2 is an algorithm that groups DNA sequences in metagenomic data into bins representing individual microbial genomes. It is widely used in microbiome research, environmental studies, and biogeochemistry.
 
 ---
 
-Key Features
+## ⭐ Key Features
 
 - **Adaptive Binning**: Dynamically adjusts based on the dataset for more accurate results.
 - **Robustness**: Handles noisy or incomplete data well using multiple metrics.
