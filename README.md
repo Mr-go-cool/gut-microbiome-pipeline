@@ -1,5 +1,6 @@
 # Gut Microbiome – MetaBAT2 Binning Pipeline.. 
 
+content
 This repository currently contains step-by-step workflows and scripts for **genome binning using MetaBAT2**, a key step in analyzing gut microbiome metagenomic data.
 
 More tools will be added soon as the full pipeline is built.
